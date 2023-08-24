@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm s1ddiq</h1>
 <h3 align="center">A passionate frontend developer from america</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s1ddiq&label=Profile%20views&color=0e75b6&style=flat" alt="s1ddiq" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=s1ddiq&label=Profile%20views&color=0e75b6&style=flat" alt="s1ddiq" style="margin:1rem;" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1ddiq" alt="s1ddiq" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1ddiq" alt="s1ddiq" style="margin:1rem;" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/s1ddiq](github.com/s1ddiq)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript**, **CSS**, **HTML**
 
 - 📫 How to reach me **siddiq.nasheed@gmail.com**
 
