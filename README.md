@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm s1ddiq</h1>
 <h3 align="center">A passionate frontend developer from america</h3>
 
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1ddiq&label=Profile%20views&color=0e75b6&style=flat" alt="s1ddiq" style="margin:1rem;" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1ddiq" alt="s1ddiq" style="margin:1rem;" /></a> </p>
