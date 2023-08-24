@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I've been coding for 1 year**
 
+- 🎇Muslim 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/s1ddiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="s1ddiq" height="30" width="40" /></a>
