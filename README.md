@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript**, **CSS**, **HTML**
 
-- 📫 How to reach me **siddiq.nasheed@gmail.com**
+- 📫 How to reach me **(REDACTED)**
 
 - ⚡ Fun fact **I've been coding for 1 year**
 
