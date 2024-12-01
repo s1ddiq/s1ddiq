@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm s1ddiq</h1>
-<h3 align="center">A frontend developer from america</h3>
+<h3 align="center">A frontend developer from us</h3>
 
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="text-align:center" width="150">
 
@@ -7,19 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1ddiq" alt="s1ddiq" style="margin:1rem;" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/s1ddiq](github.com/s1ddiq)
+- ⚡ Fun fact **er im like really crazy about my javascript :>**
 
-- 💬 Ask me about **Javascript**, **CSS**, **HTML**
 
-- 📫 How to reach me **(REDACTED)**
-
-- ⚡ Fun fact **I've been coding for 1 year**
-
-- 📽 Content Creator <a href="https://www.youtube.com/channel/UCDNj1MNUESDwU0upBTbqAPg">**Youtube Channel**</a>
-
-- 🎇Muslim
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">dont talk with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/s1ddiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="s1ddiq" height="30" width="40" /></a>
 </p>
