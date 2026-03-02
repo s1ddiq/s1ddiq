@@ -2,7 +2,7 @@
 
 I am a wannabe that gets motivation every once in a while so I get up and learn some coding.  
 Sometimes I don't have motivation so I just close everything and play some games.  
-learning c++
+Learning C++ and building the future
 
 ### I promise I'll learn some more actual LANGUAGES one day, let me stick with frameworks and libraries for now :)
 
