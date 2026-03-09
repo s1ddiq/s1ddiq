@@ -1,5 +1,5 @@
 # s1ddiq's bio:
-
+!
 I am a wannabe that gets motivation every once in a while so I get up and learn some coding.  
 Sometimes I don't have motivation so I just close everything and play some games.  
 Learning C++ and building the future
