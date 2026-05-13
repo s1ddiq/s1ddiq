@@ -2,10 +2,9 @@
 
 I am a wannabe that gets motivation every once in a while so I get up and learn some coding.  
 Sometimes I don't have motivation so I just close everything and play some games.  
-Learning C++ and building the future
+Learning Python
 
-### I promise I'll learn some more actual LANGUAGES one day, let me stick with frameworks and libraries for now :)
-
+### I'll learn some more actual LANGUAGES one day, let me stick with frameworks and libraries for now :)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -23,6 +22,7 @@ Learning C++ and building the future
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23004880.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
