@@ -35,6 +35,7 @@ Learning Python
 ![](https://github-readme-streak-stats.herokuapp.com/?user=s1ddiq&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s1ddiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=s1ddiq&custom_title=My+Awesome+Stats)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=s1ddiq&icon=0&color=0)](https://visitcount.itsvg.in)
