@@ -32,9 +32,11 @@ Learning Python
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## My stats aren't the best, bare with me:
-![](https://github-readme-stats.vercel.app/api?username=s1ddiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<!--
+ ![](https://github-readme-stats.vercel.app/api?username=s1ddiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=s1ddiq&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s1ddiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s1ddiq&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+ -->
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=s1ddiq&custom_title=My+Awesome+Stats)
 ---
